@@ -1,0 +1,1 @@
+cmd_/home/training/Desktop/Teju/Device_Drivers/helloModule/Module.symvers := sed 's/\.ko$$/\.o/' /home/training/Desktop/Teju/Device_Drivers/helloModule/modules.order | scripts/mod/modpost -m -a  -o /home/training/Desktop/Teju/Device_Drivers/helloModule/Module.symvers -e -i Module.symvers   -T -

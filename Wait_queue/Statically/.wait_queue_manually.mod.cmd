@@ -1,0 +1,1 @@
+cmd_/home/training/Desktop/Teju/Device_Drivers/Wait_queue/Statically/wait_queue_manually.mod := { echo  /home/training/Desktop/Teju/Device_Drivers/Wait_queue/Statically/wait_queue_manually.o;  echo; } > /home/training/Desktop/Teju/Device_Drivers/Wait_queue/Statically/wait_queue_manually.mod

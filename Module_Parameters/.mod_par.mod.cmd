@@ -1,0 +1,1 @@
+cmd_/home/training/Desktop/Teju/Device_Drivers/Module_Parameters/mod_par.mod := { echo  /home/training/Desktop/Teju/Device_Drivers/Module_Parameters/mod_par.o;  echo; } > /home/training/Desktop/Teju/Device_Drivers/Module_Parameters/mod_par.mod

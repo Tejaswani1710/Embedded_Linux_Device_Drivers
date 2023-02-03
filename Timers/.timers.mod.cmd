@@ -1,0 +1,1 @@
+cmd_/home/training/Desktop/Teju/Device_Drivers/Timers/timers.mod := { echo  /home/training/Desktop/Teju/Device_Drivers/Timers/timers.o;  echo; } > /home/training/Desktop/Teju/Device_Drivers/Timers/timers.mod

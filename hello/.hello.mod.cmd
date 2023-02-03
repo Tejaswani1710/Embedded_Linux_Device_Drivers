@@ -1,0 +1,1 @@
+cmd_/home/training/Desktop/Teju/Device_Drivers/hello/hello.mod := { echo  /home/training/Desktop/Teju/Device_Drivers/hello/hello.o;  echo; } > /home/training/Desktop/Teju/Device_Drivers/hello/hello.mod
